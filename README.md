@@ -59,7 +59,7 @@ requirements.txt
 
 
 ## ⚙️ Installation
-
+```bash
 # Clone this repository
 git clone https://github.com/Charu-Mittal12/Optimal-Asset-Allocation-for-Risk-Adjusted-Investment-Portfolios.git
 
@@ -74,6 +74,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
 
