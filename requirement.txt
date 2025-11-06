@@ -1,0 +1,22 @@
+# Core Python libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Optimization and math
+scipy==1.13.1
+
+# Visualization and Streamlit interface
+streamlit==1.38.0
+matplotlib==3.9.2
+plotly==5.24.1
+
+# Data fetching (Stocks / Crypto / Bonds / ETFs)
+yfinance==0.2.43
+pandas_datareader==0.10.0
+requests==2.32.3
+
+# Progress and user interface utilities
+tqdm==4.66.4
+
+# Optional (useful for typing and debugging)
+typing-extensions==4.12.2
