@@ -7,7 +7,7 @@ This project provides a modular, extensible framework for exploring various **op
 ---
 
 ## 🚀 Demo Video
-🎥 **[Watch the Demo](https://your-demo-video-link.com)**  
+🎥 **[Watch the Demo](https://drive.google.com/file/d/1sbm0efFlIoNmYAnsUkfI2-E6wCa8LkC-/view?usp=drive_link)**  
 *(Replace this link with your uploaded video on Google Drive, YouTube, or GitHub release.)*
 
 ---
@@ -61,7 +61,7 @@ requirements.txt
 ## ⚙️ Installation
 
 # Clone this repository
-git clone https://github.com/your-username/portfolio-optimization-dashboard.git
+git clone https://github.com/your-username/portfolio-optimization-dashboard](https://github.com/Charu-Mittal12/Optimal-Asset-Allocation-for-Risk-Adjusted-Investment-Portfolios.git
 cd portfolio-optimization-dashboard
 
 # Create a virtual environment
@@ -74,6 +74,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
 
