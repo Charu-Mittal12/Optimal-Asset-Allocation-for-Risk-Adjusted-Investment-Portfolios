@@ -1,4 +1,4 @@
-# 📊 Portfolio Optimization Dashboard
+# Portfolio Optimization Dashboard
 
 An interactive **Streamlit-based Portfolio Optimization Tool** that integrates asset management, data fetching, optimization, and portfolio analysis into one seamless interface.  
 
@@ -6,13 +6,14 @@ This project provides a modular, extensible framework for exploring various **op
 
 ---
 
-## 🚀 Demo Video
-🎥 **[Watch the Demo](https://drive.google.com/file/d/1sbm0efFlIoNmYAnsUkfI2-E6wCa8LkC-/view?usp=drive_link)**  
+##  Demo Video
+https://github.com/user-attachments/assets/1746e547-6f84-4357-aa91-73acf881e9da
 
 
----
 
-## 🧩 Project Overview
+
+
+##  Project Overview
 
 The project follows a modular, object-oriented architecture for maintainability and scalability.
 
@@ -74,6 +75,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
 
