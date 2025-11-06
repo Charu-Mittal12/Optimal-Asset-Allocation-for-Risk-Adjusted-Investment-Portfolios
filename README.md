@@ -62,7 +62,7 @@ requirements.txt
 
 # Clone this repository
 git clone https://github.com/your-username/portfolio-optimization-dashboard](https://github.com/Charu-Mittal12/Optimal-Asset-Allocation-for-Risk-Adjusted-Investment-Portfolios.git
-cd portfolio-optimization-dashboard
+
 
 # Create a virtual environment
 python -m venv venv
@@ -74,6 +74,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
 
