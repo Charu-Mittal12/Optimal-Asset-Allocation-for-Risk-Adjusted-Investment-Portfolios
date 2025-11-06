@@ -8,7 +8,7 @@ This project provides a modular, extensible framework for exploring various **op
 
 ## 🚀 Demo Video
 🎥 **[Watch the Demo](https://drive.google.com/file/d/1sbm0efFlIoNmYAnsUkfI2-E6wCa8LkC-/view?usp=drive_link)**  
-*(Replace this link with your uploaded video on Google Drive, YouTube, or GitHub release.)*
+
 
 ---
 
@@ -74,6 +74,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
 
