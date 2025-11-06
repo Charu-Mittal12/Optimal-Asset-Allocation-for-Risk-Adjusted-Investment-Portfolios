@@ -17,6 +17,7 @@ This project provides a modular, extensible framework for exploring various **op
 The project follows a modular, object-oriented architecture for maintainability and scalability.
 
 ### 📁 Directory Structure
+```bash
 assets/
 ├── asset_interface.py
 ├── asset_factory.py
@@ -72,5 +73,6 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
