@@ -13,6 +13,10 @@ This project provides a modular, extensible framework for exploring various **op
 
 
 
+https://github.com/user-attachments/assets/19c0a49c-cfbc-4a49-9501-926e4220782a
+
+
+
 
 
 ##  Project Overview
@@ -77,6 +81,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
 
