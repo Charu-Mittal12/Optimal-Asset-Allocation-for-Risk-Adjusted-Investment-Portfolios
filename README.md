@@ -13,6 +13,8 @@ This project provides a modular, extensible framework for exploring various **op
 
 
 
+
+
 ##  Project Overview
 
 The project follows a modular, object-oriented architecture for maintainability and scalability.
@@ -75,6 +77,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
 
